@@ -1,0 +1,22 @@
+Machine Learning Engineer - GenAI Platform
+
+About the role
+We are building an LLM-powered assistant for our enterprise customers. You will design, build and operate
+retrieval-augmented generation (RAG) systems in production.
+
+Requirements
+- 3+ years of experience as an ML engineer or data scientist shipping models to production
+- Strong Python and software engineering fundamentals, including unit testing
+- Hands-on experience with LLMs and prompt engineering
+- Experience building RAG pipelines with vector databases such as Pinecone, Weaviate or pgvector
+- Experience deploying services with Docker and Kubernetes on AWS or GCP
+- Familiarity with MLOps practices: model monitoring, evaluation and CI/CD
+- Ability to communicate technical trade-offs clearly to non-technical stakeholders
+
+Nice to have
+- Experience with LangChain or LlamaIndex
+- Knowledge of PostgreSQL and Redis
+- Contributions to open-source ML projects
+
+What we offer
+- Hybrid work, learning budget, health insurance

@@ -1,0 +1,32 @@
+PRIYA SHARMA
+Data Scientist | Bengaluru, India | priya.sharma@example.com | github.com/priyasharma
+
+SUMMARY
+Data scientist with 3 years of experience building machine learning models and data pipelines for
+e-commerce. Comfortable taking models from notebook to production and explaining results to business teams.
+
+EXPERIENCE
+Data Scientist - ShopKart, Bengaluru (2023 - Present)
+- Built a product recommendation model with PyTorch and scikit-learn that increased click-through rate by 12%.
+- Designed ETL pipelines in Python and SQL on Airflow that process 5M orders per day into Snowflake.
+- Deployed models as FastAPI services in Docker containers on AWS (EC2, S3) and set up monitoring dashboards.
+- Presented A/B testing results to product managers and leadership every sprint.
+
+Junior Data Analyst - FinServe Analytics, Pune (2021 - 2023)
+- Automated weekly reporting with Pandas and Tableau, saving the team 10 hours per week.
+- Performed statistical analysis on customer churn and built a logistic regression model to flag at-risk users.
+- Collaborated with a cross-functional team of engineers and analysts using Agile/Scrum.
+
+PROJECTS
+Customer Support Chatbot
+- Built a question-answering bot over internal FAQ documents using sentence embeddings and FAISS similarity search,
+  with a Streamlit front end.
+Sentiment Analysis of Product Reviews
+- Fine-tuned a BERT model from Hugging Face transformers for review sentiment classification (91% accuracy).
+
+SKILLS
+Python, SQL, Pandas, NumPy, scikit-learn, PyTorch, Hugging Face, FAISS, Airflow, FastAPI, Docker, AWS, Git,
+Tableau, Statistics, A/B Testing
+
+EDUCATION
+B.Tech in Computer Science - VIT Vellore (2017 - 2021), CGPA 8.6

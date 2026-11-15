@@ -1,0 +1,18 @@
+Senior Frontend Developer
+
+About the role
+Join our product team to build fast, accessible web applications used by millions of shoppers.
+
+Requirements
+- 4+ years of professional frontend development experience
+- Expert in JavaScript and TypeScript
+- Deep experience with React and Redux, and modern CSS (Tailwind CSS or Sass)
+- Experience writing tests with Jest and React Testing Library
+- Understanding of web accessibility (WCAG) and performance optimisation
+- Experience consuming REST APIs and GraphQL
+- Strong collaboration with designers and backend engineers in an Agile team
+
+Nice to have
+- Experience with Next.js and server-side rendering
+- Familiarity with Node.js
+- Experience with CI/CD using GitHub Actions
